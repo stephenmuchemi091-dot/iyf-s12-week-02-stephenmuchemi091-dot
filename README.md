@@ -4,7 +4,7 @@
 Personal portfolio website made to practice HTML and CSS. It includes a home page, About page, Projects page, and Box Model practice page.
 
 ## Technologies Used
-- HTML5
+- HTML
 - CSS3
 
 ## Features
