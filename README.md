@@ -5,7 +5,7 @@ Personal portfolio website made to practice HTML and CSS. It includes a home pag
 
 ## Technologies Used
 - HTML
-- CSS3
+- CSS
 
 ## Features
 - Flexbox navigation.
